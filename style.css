@@ -1,0 +1,45 @@
+/* Selector 1: Class selector for the main title */
+.main-title {
+    color: darkblue;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid darkblue;
+  }
+  
+  /* Selector 2: ID selector for the introductory paragraph */
+  #intro {
+    font-size: 18px;
+    font-family: 'Georgia', serif;
+    color: darkgray;
+    margin: 20px auto;
+    text-align: justify;
+    width: 80%;
+  }
+  
+  /* Selector 3: Class selector for the image */
+  .styled-image {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+    border: 5px solid purple;
+    padding: 10px;
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  /* General styles for body and footer */
+  body {
+    background-color: lightgray;
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.6;
+    color: darkblue;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
